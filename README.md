@@ -16,7 +16,7 @@ the .devcontainer folder contains a setup configuration which will allow the pro
 
 clone the project with github desktop, or with VSCode, or in command line using:
 ```bash 
-git clone git@github.com:PhalaTeamFR/phat-hello.git
+git clone https://github.com/PhalaTeamFR/phat-hello.git
 ```
 
 in VSCode
